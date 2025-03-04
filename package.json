@@ -1,0 +1,15 @@
+{
+  "name": "js-introducao",
+  "version": "1.0.0",
+  "description": "Introduçao ao Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-js-introducao"
+  },
+  "author": "Gabriel Fontes",
+  "license": "ISC"
+}
